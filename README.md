@@ -1,2 +1,5 @@
 # Practicas-EDAI
-practicas de EDAI, espero no morir en el intento &lt;3
+Estructuras de datos y algoritmos I
+
+José Eduardo Vargas Sánchez - Grupo 3
+(Alias: Yuriko Sugiura :3)
