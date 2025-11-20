@@ -1,0 +1,5 @@
+1. ¿Por qué las listas enlazadas no requieren tamaño fijo como los arreglos?
+Los nodos se crean dinámicamente en cuanto se necesita, esto es diferente a los arreglos ya que ellos deben reservar un bloque de memoria de tamaño fijo.
+
+2. ¿Qué diferencia hay entre mover la cabeza y modificar los punteros internos?
+Al mover la cabeza se mueve el puntero que indica el inicio de la lista. Mientras que modificar los punteros cambia el como están conectados los nodos alterando las estructura completa de la lista.

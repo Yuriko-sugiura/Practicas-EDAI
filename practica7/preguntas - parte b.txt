@@ -1,0 +1,8 @@
+1. ¿Qué ventaja tiene la lista circular frente a la simple?
+Puede recorse sin tener que reiniciar el puntero, lo que da un acceso facil al primer nodo.
+
+2. ¿Qué error puede causar un bucle infinito en una lista circular?
+No detener el recorrido cuando el punterpo vuelve a la cabeza.
+
+3. ¿Qué estructuras o programas del mundo real se basan en listas circulares?
+Las listas de reproduccion cuando estan en modo bucle :3
