@@ -1,0 +1,8 @@
+1. ¿Qué diferencia hay entre una lista doblemente ligada y una circular doblemente ligada?
+Mientras que la lista doblemente ligada tiene "extremos", la circular no los tiene y graciuas a esto carece de un NULL.
+
+2. ¿Qué errores pueden causar ciclos infinitos al recorrer una lista circular?
+El que falte una condicion donde no se verifica que regrese al nodo inicial. Al igual el que no se eliminen bien los datos.
+
+3. ¿Qué tipo de aplicaciones reales usan este tipo de listas (por ejemplo, reproductores multimedia, navegación en historial, juegos)?
+Dentro de las aplicaciones o en este caso juego que llega a usarlo es el juego de Honkai Star Rail, al ser un juego de turnos :3
