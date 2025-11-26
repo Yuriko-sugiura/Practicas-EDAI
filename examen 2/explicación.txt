@@ -1,0 +1,15 @@
+a)
+La lista se divide en dos mitades, siendo izquierda y derecha. Tras ellos se llama a la funcion recursivamente para obtener el maximo de ambas mitades.
+Al final se comparará el maximo de ambos lados y devuelve el mayor de ambos.
+
+c)
+Cuando se da el caso base, ya no se requiere devidir, por lo tanto al ser el unico elemento ya es el maximo.
+Por eso mismo: len(lista) == 1 siempre regresará lista[0]
+
+Complejidad temporal:
+
+Se uso la notación Big O, donde en cada llamada recursiva el algoritmo realizará:
+- División de la lista en dos mitades.
+- Hace dos llamadas recursivas.
+- Compará dos valores.
+
